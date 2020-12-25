@@ -1,6 +1,6 @@
 # IDPS Generator
 This is generate a CIDS for PlayStation 3
-- You can find here a files for works DarkSploit (scripts for Script Hub)
+- This is random
 ### How to install?
 ```
 pip install -r requirements.txt
