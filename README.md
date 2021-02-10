@@ -1,6 +1,5 @@
 # IDPS Generator
-This is generate a CIDS for PlayStation 3
-- This is random
+Random CIDS for PlayStation 3
 ### How to install?
 ```
 pip install -r requirements.txt
